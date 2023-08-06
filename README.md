@@ -4,7 +4,7 @@
 ***
 
 <div align="center">
-<img align="middle" alt="tela-login" height="450" width="450" src="TelaLogin.gif"><br>
+<img align="middle" alt="tela-login" height=600" width="990" src="Projeto/TelaLogin.gif"><br>
 </div>
 
 ***
